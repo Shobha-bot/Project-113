@@ -1,0 +1,11 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:1px ridge #000000;
+}
+
+body{
+    background-color: rgb(236, 173, 194);
+}
